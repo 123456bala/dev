@@ -34,4 +34,7 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+ytt7t78t7'[
+	y78t98yy
+	iuguty8y9yu
